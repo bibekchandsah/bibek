@@ -2,7 +2,7 @@
 <h3 align="center">Portfolio</h3>
 
 <!-- Profile View Count -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=bibek10550/bibek&label=Profile%20views&color=0e75b6&style=flat" alt="Bibek Chand Sah (BCS0" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bibek10550bibek&label=Profile%20views&color=0e75b6&style=flat" alt="Bibek Chand Sah (BCS0" /> </p>
 
 ## Website
 <h1>👉🏻 <a href="https://bibek10550.github.io/bibek/">Bibek Chand Sah (Portfolio)</a></h1>
