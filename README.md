@@ -45,7 +45,7 @@ If you have any feedback, please reach out to us at <a href="https://bibek10550.
 
 ## Logo
 <!-- ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png) -->
-![Logo](https://bibek10550.github.io/bibek/assets/favicon/apple-touch-icon.png)
+![Logo](https://bibekchandsah.github.io/bibek/assets/favicon/apple-touch-icon.png)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibek10550&" alt="bibek10550" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibekchandsah&" alt="bibekchandsah" /></p>
